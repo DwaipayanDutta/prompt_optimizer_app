@@ -1,0 +1,6 @@
+ollama
+pydantic
+fastapi
+uvicorn
+sentence-transformers
+rich
