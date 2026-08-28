@@ -543,9 +543,7 @@ Then open a pull request describing:
 
 ## License
 
-No license file is currently included in the repository.
-
-If you intend to distribute this project as open-source software, add an appropriate `LICENSE` file and update this section accordingly.
+adding in
 
 ## Author
 
