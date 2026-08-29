@@ -543,7 +543,8 @@ Then open a pull request describing:
 
 ## License
 
-adding in
+This project is licensed under the **MIT License**.
+See [`LICENSE`](LICENSE) for the complete license text.
 
 ## Author
 
